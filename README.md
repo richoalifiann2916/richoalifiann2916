@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋, I'm Richo Alifian</h1>
+<img width="685" height="367" alt="image" src="https://github.com/user-attachments/assets/c10b9e30-3e69-4354-8d33-10d786f9bfe2" /><h1 align="center">Hi 👋, I'm Richo Alifian</h1>
 <h3 align="center">Tech Enthusiast | ML & AI | Embedded System | Telecommunication Engineering </h3>
 
-🎓 Telkom University Student
+## 🧠 About Me
 
-🤖 Focus on Machine Learning & IoT Systems
+* 🔭 Currently working on **Machine Learning & IoT-based projects with real-world applications**
+* 🌱 Currently learning **Deep Learning, Model Optimization, and Embedded AI Systems**
+* 🤝 Open to collaboration on **AI, IoT, and impactful tech projects**
+* 💬 Ask me about **Machine Learning, IoT Systems, and Embedded Development**
+* 📫 Reach me at: **(richoalifiann@gmail.com / linkedin richoalifiann)**
+* ⚡ Fun fact: **I enjoy turning complex ideas into scalable tech solutions 🚀**
 
-🚀 Building projects with real-world impact
 
-💡 Interested in Startup & Business Innovation
+
 
 I build tech not just to work… but to scale 🚀
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;IoT+%26+Embedded+Systems;Future+Tech+Builder" />
-</p>
 ---
 
 ## 🌐 Socials:
@@ -37,10 +38,12 @@ I build tech not just to work… but to scale 🚀
 
 ## 🔥 Streak Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=richoalifiann2916&theme=tokyonight&hide_border=true)
+
 ---
 ## 🧠 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richoalifiann2916&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
 ![trophy](https://github-profile-trophy.vercel.app/?username=richoalifiann2916&theme=radical)
 
