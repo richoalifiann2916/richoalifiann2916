@@ -27,18 +27,18 @@ I build tech not just to work… but to scale 🚀
 ---
 
 ## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=richoaliifann2916&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richoaliifann2916&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=richoaliifann2916&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=richoaliifann2916&theme=radical)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=richoaliifann2916&theme=react-dark)
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Machine+Learning;Embedded+System;Entrepreneur)
 <!--
