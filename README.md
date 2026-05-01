@@ -13,7 +13,7 @@ I build tech not just to work… but to scale 🚀
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://instagram.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://www.instagram.com/richoalifiann)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)
 
 ---
