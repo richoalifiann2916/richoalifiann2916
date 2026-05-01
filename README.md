@@ -27,19 +27,24 @@ I build tech not just to work… but to scale 🚀
 ---
 
 ## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=richoalifiann2916&show_icons=true&theme=radical)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=richoalifiann2916&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richoalifiann2916&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats:
-![GitHub Streak](https://streak-stats.demolab.com?username=richoalifiann2916&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=richoalifiann2916&theme=tokyonight&hide_border=true)
+---
+## 🧠 Top Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richoalifiann2916&layout=compact&theme=tokyonight&hide_border=true)
+---
 ![trophy](https://github-profile-trophy.vercel.app/?username=richoalifiann2916&theme=radical)
 
+---
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=richoalifiann2916&theme=react-dark)
 
+---
 ![Typing](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Machine+Learning;Embedded+System;Entrepreneur)
 <!--
 **richoalifiann2916/richoalifiann2916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
