@@ -1,4 +1,4 @@
-<img width="685" height="367" alt="image" src="https://github.com/user-attachments/assets/c10b9e30-3e69-4354-8d33-10d786f9bfe2" /><h1 align="center">Hi 👋, I'm Richo Alifian</h1>
+Hi 👋, I'm Richo Alifian</h1>
 <h3 align="center">Tech Enthusiast | ML & AI | Embedded System | Telecommunication Engineering </h3>
 
 ## 🧠 About Me
@@ -7,7 +7,7 @@
 * 🌱 Currently learning **Deep Learning, Model Optimization, and Embedded AI Systems**
 * 🤝 Open to collaboration on **AI, IoT, and impactful tech projects**
 * 💬 Ask me about **Machine Learning, IoT Systems, and Embedded Development**
-* 📫 Reach me at: **(richoalifiann@gmail.com / linkedin richoalifiann)**
+* 📫 Reach me at: **(richoalifiann@gmail.com)**
 * ⚡ Fun fact: **I enjoy turning complex ideas into scalable tech solutions 🚀**
 
 
