@@ -20,7 +20,7 @@ I build tech not just to work… but to scale 🚀
 
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-blue?logo=python)
 ![C++](https://img.shields.io/badge/c++-blue?logo=c%2B%2B)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)
