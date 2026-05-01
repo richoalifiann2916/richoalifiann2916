@@ -7,10 +7,8 @@ Hi 👋, I'm Richo Alifian</h1>
 * 🌱 Currently learning **Deep Learning, Model Optimization, and Embedded AI Systems**
 * 🤝 Open to collaboration on **AI, IoT, and impactful tech projects**
 * 💬 Ask me about **Machine Learning, IoT Systems, and Embedded Development**
-* 📫 Reach me at: **(richoalifiann@gmail.com)**
+* 📫 Reach me at: **richoalifiann@gmail.com**
 * ⚡ Fun fact: **I enjoy turning complex ideas into scalable tech solutions 🚀**
-
-
 
 
 I build tech not just to work… but to scale 🚀
@@ -31,20 +29,20 @@ I build tech not just to work… but to scale 🚀
 ---
 
 ## 📊 GitHub Stats:
-https://github-readme-stats.vercel.app/api?username=richoalifiann2916&show_icons=true&theme=tokyonight&hide_border=true
+![Stats](https://github-readme-stats.vercel.app/api?username=richoalifiann2916&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 Streak Stats:
-https://streak-stats.demolab.com?user=richoalifiann2916&theme=tokyonight&hide_border=true
+![GitHub Streak](https://streak-stats.demolab.com?user=richoalifiann2916&theme=tokyonight&hide_border=true)
 
 ---
 ## 🧠 Top Languages
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=richoalifiann2916&layout=compact&theme=tokyonight&hide_border=true
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richoalifiann2916&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-![trophy](https://github-profile-trophy.vercel.app/?username=richoalifiann2916&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=richoalifiann2916&theme=tokyonight&no-frame=true)
 
 ---
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=richoalifiann2916&theme=react-dark)
