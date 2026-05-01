@@ -47,7 +47,7 @@ I build tech not just to work… but to scale 🚀
   <img src="https://github-profile-trophy.vercel.app/?username=richoalifiann2916&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
-## 📈 Development Activity Overviewx
+##  📈 Contribution Activity
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=richoalifiann2916&theme=react-dark)
 
