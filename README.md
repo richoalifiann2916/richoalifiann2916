@@ -12,13 +12,13 @@
 
 
 I build tech not just to work… but to scale 🚀
----
+
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://www.instagram.com/richoalifiann)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/richoalifiann/)
 
----
+
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-blue?logo=python)
@@ -26,25 +26,26 @@ I build tech not just to work… but to scale 🚀
 ![TensorFlow](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)
 ![Flutter](https://img.shields.io/badge/flutter-blue?logo=flutter)
 
----
+
 
 ## 📊 GitHub Stats
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=richoalifiann2916&theme=tokyonight)
 
----
+
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=richoalifiann2916&theme=tokyonight&hide_border=true)
 
----
+
 ## 🧠 Top Languages
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=richoalifiann2916&theme=tokyonight)
 
----
-![trophy](https://github-profile-trophy.vercel.app/?username=richoalifiann2916&theme=tokyonight&no-frame=true)
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=richoalifiann2916&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=richoalifiann2916&theme=react-dark)
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Machine+Learning;Embedded+System;Entrepreneur)
