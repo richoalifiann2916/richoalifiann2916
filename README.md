@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richo Alifian</h1>
-<h3 align="center">Tech Enthusiast | ML | Embedded System | Telecommunication Engineering </h3>
+<h3 align="center">Tech Enthusiast | ML & AI | Embedded System | Telecommunication Engineering </h3>
 
 🎓 Telkom University Student
 
