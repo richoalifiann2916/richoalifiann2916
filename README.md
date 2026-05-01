@@ -42,9 +42,10 @@ I build tech not just to work… but to scale 🚀
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=richoalifiann2916&theme=tokyonight)
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richoalifiann2916&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=richoalifiann2916&theme=tokyonight&no-frame=true&row=3&column=6)
+
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=richoalifiann2916&theme=react-dark)
 
