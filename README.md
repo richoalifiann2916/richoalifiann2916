@@ -31,18 +31,17 @@ I build tech not just to work… but to scale 🚀
 ---
 
 ## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=richoalifiann2916&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richoalifiann2916&layout=compact&theme=radical)
+https://github-readme-stats.vercel.app/api?username=richoalifiann2916&show_icons=true&theme=tokyonight&hide_border=true
 
 ---
 
 ## 🔥 Streak Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=richoalifiann2916&theme=tokyonight&hide_border=true)
+https://streak-stats.demolab.com?user=richoalifiann2916&theme=tokyonight&hide_border=true
 
 ---
 ## 🧠 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richoalifiann2916&layout=compact&theme=tokyonight&hide_border=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=richoalifiann2916&layout=compact&theme=tokyonight&hide_border=true
 
 ---
 ![trophy](https://github-profile-trophy.vercel.app/?username=richoalifiann2916&theme=radical)
