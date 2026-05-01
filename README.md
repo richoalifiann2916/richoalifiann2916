@@ -14,7 +14,7 @@ I build tech not just to work… but to scale 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://www.instagram.com/richoalifiann)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/richoalifiann/)
 
 ---
 
@@ -29,7 +29,7 @@ I build tech not just to work… but to scale 🚀
 ## 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=richoalifiann2916&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richoaliifann2916&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richoalifiann2916&layout=compact&theme=radical)
 
 ---
 
