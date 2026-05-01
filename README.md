@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Richo Alifian</h1>
 <h3 align="center">Tech Enthusiast | ML | Embedded System | Telecommunication Engineering </h3>
 
+🎓 Telkom University Student
+🤖 Focus on Machine Learning & IoT Systems
+🚀 Building projects with real-world impact
+💡 Interested in Startup & Business Innovation
+
+I build tech not just to work… but to scale 🚀
 ---
 
 ## 🌐 Socials:
