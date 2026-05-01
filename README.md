@@ -21,7 +21,7 @@ I build tech not just to work… but to scale 🚀
 
 
 ## 💻 Tech Stack
- <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,flutter,arduino,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tensorflow,pytorch,opencv,sklearn,flutter,arduino,nodejs,git,github,linux,figma" />
 </p>
 
 
